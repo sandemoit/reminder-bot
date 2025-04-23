@@ -44,9 +44,7 @@ node index.js
 
 ## 🧑‍💻 Dibuat oleh
 
-Sandi
-Fullstack Web Developer — Sandemo Indo Teknologi
-Palembang, Indonesia 🇮🇩
+Sansan
 
 ## 🧠 Lisensi
 MIT License
